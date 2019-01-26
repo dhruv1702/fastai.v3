@@ -1,0 +1,36 @@
+# [fast.ai](http://www.fast.ai)
+- latest course (v3):  https://course.fast.ai
+- fastai on **GitHub:**  [fastai](https://github.com/fastai/fastai) 
+- Data
+    - [Torrents](http://academictorrents.com/browse.php?search=fastai&page=0)
+    - [some fastai files](http://files.fast.ai) (files, models, data)
+
+## About Me 
+* [My Blog](https://dhruv1702.github.io/) (Dhruv Verma)
+* Twitter: [@dhruvy1702](https://twitter.com/dhruvy1702)
+
+---
+
+## Helpful Resources
+* [Directory of fastai and DL terms](fastai_dl_terms.md)
+* [Solving the Most Common Errors](tips_troubleshooting.md)
+* [Fastai FAQs for Beginners](tips_faq_beginners.md)
+* [30+ Best Practices](http://forums.fast.ai/t/30-best-practices/12344)
+* [Resources](resources.md) (Blogs Written by fastai Fellows / Research Papers, etc)
+* [Fastai Blog Posts](http://www.fast.ai/topics/) (by Rachel Thomas & Jeremy Howard)
+    - podcast with [Jeremy Howard on fastai_v1](https://twimlai.com/twiml-talk-186-the-fastai-v1-deep-learning-framework-with-jeremy-howard/) :red_circle:
+    - podcast with [Rachel Thomas](https://twimlai.com/twiml-talk-138-practical-deep-learning-with-rachel-thomas/)
+- [Jeremy's PyTorch Tutorial](https://github.com/fastai/fastai_old/blob/master/dev_nb/001a_nn_basics.ipynb) 
+
+## [Technical Tools](tools/)
+* [tmux on AWS](tools/tmux.md)
+* [Download data using Kaggle CLI](tools/download_data_kaggle_cli.md)
+* [Download data using Chrome and wget](tools/download_data_browser_curlwget.md)
+* [Jupyter Notebook Commands & Shortcuts](tools/jupyter_notebook.md)
+* [How to Create a Keypair](tools/create_keypair.md)
+* [Copy Files from Local PC to Cloud PC](tools/copy_files_local_to_cloud.md)
+
+
+## Other Resources
+- [Publish notebooks as Github gists with a single button click!](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/gist_it/readme.html)
+- [Tips for building large image datasets](https://forums.fast.ai/t/tips-for-building-large-image-datasets/26688)
